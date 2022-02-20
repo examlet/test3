@@ -1,0 +1,10 @@
+html,
+body,
+div#__nuxt {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    -webkit-tap-highlight-color: transparent;
+    background: #f5f7f9;
+}
