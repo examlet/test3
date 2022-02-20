@@ -20,7 +20,7 @@ const isActive = computed(() => route.path === props.to)
     py-4
     pl-2
     hover:text-teal-700
-    h-24px
+    h-20px
     @click="global.setTabName(title)"
   >
     <i :class="icon" flex-shrink-0 mr-2 />

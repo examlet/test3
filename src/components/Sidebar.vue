@@ -44,17 +44,6 @@ const global = useGlobalStore()
         href="#"
         op60
         text-sm
-        fw300
-        hover:underline
-        truncate
-        decoration-1
-        underline-offset-3
-        underline-opacity-50
-      >Правила пользования</a>
-      <a
-        href="#"
-        op60
-        text-sm
         text-left
         fw300
         hover:underline
