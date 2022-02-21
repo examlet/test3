@@ -8,7 +8,7 @@ const global = useGlobalStore()
     shadow-md
     float-left
     fixed
-    z-1
+    z-2
     h-full
     p-2
     flex
